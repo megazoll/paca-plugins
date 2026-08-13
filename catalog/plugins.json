@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "source": "https://github.com/Paca-AI/paca-plugins",
-  "generated_at": "2026-08-04T00:00:00Z",
+  "source": "https://github.com/megazoll/paca-plugins",
+  "generated_at": "2026-08-13T00:00:00Z",
   "plugins": [
     {
       "name": "com.paca.checklist",
