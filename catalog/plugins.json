@@ -110,6 +110,22 @@
         "mcp_tar_gz_url": "https://github.com/megazoll/paca-plugin-omniboard/releases/download/v0.1.11/omniboard-mcp-dist.tar.gz",
         "skills_tar_gz_url": "https://github.com/megazoll/paca-plugin-omniboard/releases/download/v0.1.11/omniboard-skills-bundle.tar.gz"
       }
+    },
+    {
+      "name": "com.paca.email-notifications",
+      "display_name": "Email Notifications",
+      "description": "Duplicates PACA notifications (task assignments, mentions) to user email addresses via native SMTP delivery.",
+      "version": "0.1.0",
+      "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/email-notifications.png",
+      "repository_url": "https://github.com/megazoll/paca-plugin-email-notifications",
+      "artifacts": {
+        "backend_tar_gz_url": "https://github.com/megazoll/paca-plugin-email-notifications/releases/download/v0.1.0/email-notifications-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/megazoll/paca-plugin-email-notifications/releases/download/v0.1.0/email-notifications-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/megazoll/paca-plugin-email-notifications/releases/download/v0.1.0/email-notifications-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/megazoll/paca-plugin-email-notifications/releases/download/v0.1.0/email-notifications-plugin-manifest.tar.gz",
+        "mcp_tar_gz_url": "https://github.com/megazoll/paca-plugin-email-notifications/releases/download/v0.1.0/email-notifications-mcp-dist.tar.gz",
+        "skills_tar_gz_url": "https://github.com/megazoll/paca-plugin-email-notifications/releases/download/v0.1.0/email-notifications-skills-bundle.tar.gz"
+      }
     }
   ]
 }
