@@ -114,7 +114,7 @@
     {
       "name": "com.paca.email-notifications",
       "display_name": "Email Notifications",
-      "description": "Duplicates PACA notifications (task assignments, mentions) to user email addresses via native SMTP delivery.",
+      "description": "Duplicates PACA notifications (task assignments, mentions, updates) to user email addresses via Yandex Cloud Postbox, Resend, SendGrid, Mailgun, Postmark, Brevo, or Webhooks.",
       "version": "0.1.0",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/email-notifications.png",
       "repository_url": "https://github.com/megazoll/paca-plugin-email-notifications",
