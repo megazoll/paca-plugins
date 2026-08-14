@@ -115,16 +115,16 @@
       "name": "com.paca.email-notifications",
       "display_name": "Email Notifications",
       "description": "Duplicates PACA notifications (task assignments, mentions, updates) to user email addresses via Yandex Cloud Postbox, Resend, SendGrid, Mailgun, Postmark, Brevo, or Webhooks.",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/email-notifications.png",
       "repository_url": "https://github.com/megazoll/paca-plugin-email-notifications",
       "artifacts": {
-        "backend_tar_gz_url": "https://github.com/megazoll/paca-plugin-email-notifications/releases/download/v0.1.1/email-notifications-backend-wasm.tar.gz",
-        "frontend_tar_gz_url": "https://github.com/megazoll/paca-plugin-email-notifications/releases/download/v0.1.1/email-notifications-frontend-dist.tar.gz",
-        "migrations_tar_gz_url": "https://github.com/megazoll/paca-plugin-email-notifications/releases/download/v0.1.1/email-notifications-migrations.tar.gz",
-        "manifest_tar_gz_url": "https://github.com/megazoll/paca-plugin-email-notifications/releases/download/v0.1.1/email-notifications-plugin-manifest.tar.gz",
-        "mcp_tar_gz_url": "https://github.com/megazoll/paca-plugin-email-notifications/releases/download/v0.1.1/email-notifications-mcp-dist.tar.gz",
-        "skills_tar_gz_url": "https://github.com/megazoll/paca-plugin-email-notifications/releases/download/v0.1.1/email-notifications-skills-bundle.tar.gz"
+        "backend_tar_gz_url": "https://github.com/megazoll/paca-plugin-email-notifications/releases/download/v0.1.2/email-notifications-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/megazoll/paca-plugin-email-notifications/releases/download/v0.1.2/email-notifications-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/megazoll/paca-plugin-email-notifications/releases/download/v0.1.2/email-notifications-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/megazoll/paca-plugin-email-notifications/releases/download/v0.1.2/email-notifications-plugin-manifest.tar.gz",
+        "mcp_tar_gz_url": "https://github.com/megazoll/paca-plugin-email-notifications/releases/download/v0.1.2/email-notifications-mcp-dist.tar.gz",
+        "skills_tar_gz_url": "https://github.com/megazoll/paca-plugin-email-notifications/releases/download/v0.1.2/email-notifications-skills-bundle.tar.gz"
       }
     }
   ]
