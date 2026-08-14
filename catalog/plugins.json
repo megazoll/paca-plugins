@@ -99,16 +99,16 @@
       "name": "com.paca.omniboard",
       "display_name": "Omniboard",
       "description": "Multi-project Kanban board plugin for PACA AI to view, filter, and manage tasks across multiple projects.",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "avatar_url": "https://raw.githubusercontent.com/Paca-AI/paca-plugins/main/assets/omniboard.png",
       "repository_url": "https://github.com/megazoll/paca-plugin-omniboard",
       "artifacts": {
-        "backend_tar_gz_url": "https://github.com/megazoll/paca-plugin-omniboard/releases/download/v0.1.3/omniboard-backend-wasm.tar.gz",
-        "frontend_tar_gz_url": "https://github.com/megazoll/paca-plugin-omniboard/releases/download/v0.1.3/omniboard-frontend-dist.tar.gz",
-        "migrations_tar_gz_url": "https://github.com/megazoll/paca-plugin-omniboard/releases/download/v0.1.3/omniboard-migrations.tar.gz",
-        "manifest_tar_gz_url": "https://github.com/megazoll/paca-plugin-omniboard/releases/download/v0.1.3/omniboard-plugin-manifest.tar.gz",
-        "mcp_tar_gz_url": "https://github.com/megazoll/paca-plugin-omniboard/releases/download/v0.1.3/omniboard-mcp-dist.tar.gz",
-        "skills_tar_gz_url": "https://github.com/megazoll/paca-plugin-omniboard/releases/download/v0.1.3/omniboard-skills-bundle.tar.gz"
+        "backend_tar_gz_url": "https://github.com/megazoll/paca-plugin-omniboard/releases/download/v0.1.4/omniboard-backend-wasm.tar.gz",
+        "frontend_tar_gz_url": "https://github.com/megazoll/paca-plugin-omniboard/releases/download/v0.1.4/omniboard-frontend-dist.tar.gz",
+        "migrations_tar_gz_url": "https://github.com/megazoll/paca-plugin-omniboard/releases/download/v0.1.4/omniboard-migrations.tar.gz",
+        "manifest_tar_gz_url": "https://github.com/megazoll/paca-plugin-omniboard/releases/download/v0.1.4/omniboard-plugin-manifest.tar.gz",
+        "mcp_tar_gz_url": "https://github.com/megazoll/paca-plugin-omniboard/releases/download/v0.1.4/omniboard-mcp-dist.tar.gz",
+        "skills_tar_gz_url": "https://github.com/megazoll/paca-plugin-omniboard/releases/download/v0.1.4/omniboard-skills-bundle.tar.gz"
       }
     }
   ]
